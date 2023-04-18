@@ -1,5 +1,5 @@
 {
-    "name": "laravel-mix",
+    "name": "laravel-mix-metrina",
     "version": "6.0.49",
     "description": "The power of webpack, distilled for the rest of us.",
     "main": "src/index.js",
