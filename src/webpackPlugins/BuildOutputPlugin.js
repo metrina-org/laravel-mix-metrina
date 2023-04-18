@@ -66,9 +66,9 @@ class BuildOutputPlugin {
 
             console.log(chalk.green.bold(`✔ Compiled Successfully in ${data.time}ms`));
 
-            if (data.assets.length) {
-                console.log(this.statsTable(data));
-            }
+            //if (data.assets.length) {
+            //    console.log(this.statsTable(data));
+            //}
         });
     }
 
